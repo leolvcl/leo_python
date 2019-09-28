@@ -1,0 +1,5 @@
+venv安装
+    pip install virtualenv
+    pip install virtualenvwrapper
+使用
+    mkvirtualenv
